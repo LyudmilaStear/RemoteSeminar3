@@ -17,3 +17,8 @@ count--;
 git branch -M main
 
 git push -u origin main
+
+Для получения и слияния измений из удаленного репозитория, используется команда
+```
+git pull
+```
